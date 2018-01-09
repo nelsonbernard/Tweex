@@ -1,0 +1,14 @@
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\Tweex.exe.config
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\IncludedSoftware.txt
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\Resources\testbackground.jpg
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\Tweex.exe
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\Tweex.pdb
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\obj\Release\Tweex.csprojResolveAssemblyReference.cache
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\obj\Release\Tweex.Form1.resources
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\obj\Release\Tweex.Properties.Resources.resources
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\obj\Release\Tweex.csproj.GenerateResource.Cache
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\obj\Release\Tweex.exe
+c:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\obj\Release\Tweex.pdb
+C:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\Resources\user.bmp
+C:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\Resources\ThemeTool.exe
+C:\Users\-\Documents\Visual Studio 2015\Projects\Tweex\Tweex\bin\Release\Resources\DicksPawn.themepack

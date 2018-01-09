@@ -1,0 +1,13 @@
+﻿
+
+
+AVG Antivirus - AVG is a free antivirus program designed to help protect your computer from all kinds of threats and malware
+Mozilla Firefox - An open source browser with a clean design, providing excellent browsing speed and powerful customization tools
+Google Chrome - A fast, simple and secure web browser
+iTunes - iTunes is a free app that lets you organize and play digital music and video on your computer
+Open Office - Open Office is the leading open-source office software suite for word processing, spreadsheets, presentations and more
+Skype - Skype is a powerful and feature-rich application. It inludes support for video calls, file sharing, text messaging, group calls and more
+Adobe Reader - The most popular and trusted PDF file reader program
+QuickTime - QuickTime is a media player that supports most common audio and video formats
+CCleaner - Free program that cleans your registry and deletes temporary files to keep your system running at optimal performance
+Malwarebytes - Free anti-malware program designed to aid in keeping your computer free of the most advanced viruses, adware, and malware
